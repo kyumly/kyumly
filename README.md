@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
