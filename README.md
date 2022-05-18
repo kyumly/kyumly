@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumly&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumly&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumly&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyumly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumly&hide=contribs,prs)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumly&hide=contribs,prs) -->
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
