@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="efb48583-8f90-4a07-ba49-a8cb851168f1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
