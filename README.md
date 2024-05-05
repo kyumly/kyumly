@@ -47,5 +47,5 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=kyumly&show_icons=true&theme=radical" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumly&layout=compact" alt="Top Languages" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumly&layout=compact&hide=jupyter%20notebook,%20HTML,%20CSS,%20JavaScript" alt="Top Languages" height="180px">
 </div>
