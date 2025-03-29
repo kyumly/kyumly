@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,25,30&height=200&section=header&text=Kyumly&render&fontSize=40&fontAlignY=35&fontAlign=80&desc=Welcome%20To%20My%20GitHub&descAlign=81&descAlignY=55)
 
 ## 수상 내역
-- **2023.07** 우수논문상 (장애인 예술 작품 전시 애플리케이션 설계 및 구현)
+- **2023.07** 우수논문상
 - **2023.02** 성적 우수상
-- **2022.07** 우수논문상 (Microsoft Luis 기반의 전시장 챗봇 설계 및 구현)
+- **2022.07** 우수논문상
 
 ## Study
 - **2022** NVIDIA 딥러닝 기초 수료
