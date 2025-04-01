@@ -41,8 +41,8 @@
 <br>
 
 ### 백준 레벨
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
+[//]: #[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
+[//]: #[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=skkim3530)](https://solved.ac/skkim3530)
 
 
 <div style="display: flex;">
